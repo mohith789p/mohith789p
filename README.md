@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P Mohith</h1>
+<h1 align="center">Hi 👋, I'm Potnuru Mohith</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 📫 How to reach me **mohith321p@gmail.com**
