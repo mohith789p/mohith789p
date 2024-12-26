@@ -1,6 +1,6 @@
 <h1 align="center">Potnuru Mohith</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App-Development" width="auto" height="35"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am a second-year Computer Science student skilled in C, Python, and Java, with experience in basic web development and proficiency in SQL. I am passionate about engineering and technology.</p>
