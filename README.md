@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <img style="display: inline-block;" width="450px" height="300px" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900">
+<div style="width: 100%; text-align: center;">
+    <img style="display: block; margin-left: auto; margin-right: auto;" width="450px" height="300px" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900">
 </div>
 <h1 align="center">Potnuru Mohith</h1>
 <p align="center">
