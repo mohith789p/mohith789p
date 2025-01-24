@@ -29,26 +29,25 @@
 <br>
 <h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
-<a href="https://github.com/mohith789p/Data-Structures"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=data-structures&theme=radical"></a>
-<a href="https://github.com/mohith789p/Java-Lab-Programs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=java-lab-programs&theme=radical"></a>
-<a href="https://github.com/mohith789p/Python-Lab-Programs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=python-lab-programs&theme=radical"></a>
-<a href="https://github.com/mohith789p/SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=sql&theme=radical"></a>
+<a href="https://github.com/mohith789p/Data-Structures"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=data-structures&theme=nightowl"></a>
+<a href="https://github.com/mohith789p/Java-Lab-Programs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=java-lab-programs&theme=nightowl"></a>
+<a href="https://github.com/mohith789p/Python-Lab-Programs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=python-lab-programs&theme=nightowl"></a>
+<a href="https://github.com/mohith789p/SQL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohith789p&repo=sql&theme=nightowl"></a>
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=mohith789p&row=2&column=3&theme=radical&margin-w=2&margin-h=2&no-frame=true"/>
-</div>
+   <img src="https://github-profile-trophy.vercel.app/?username=mohith789p&row=2&column=3&theme=onmachina&margin-w=2&margin-h=2&no-frame=true"/></div>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohith789p&theme=radical" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith789p&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohith789p&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohith789p&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohith789p&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohith789p&theme=nightowl" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith789p&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=nightowl&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohith789p&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohith789p&theme=nightowl&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohith789p&theme=nightowl&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <br>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote of the Day"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" alt="Dynamic Quote of the Day"/>
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
