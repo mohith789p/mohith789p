@@ -37,7 +37,7 @@
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-   <img src="https://github-profile-trophy.vercel.app/?username=mohith789p&row=2&column=3&theme=onmachina&margin-w=2&margin-h=2&no-frame=true"/></div>
+   <img src="https://github-profile-trophy.vercel.app/?username=mohith789p&row=2&column=3&theme=onedark&margin-w=2&margin-h=2&no-frame=true"/></div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohith789p&theme=nightowl" height="180em" alt="Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohith789p&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=nightowl&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
