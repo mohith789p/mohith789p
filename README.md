@@ -1,8 +1,6 @@
 <div align="center">
  <img width="450px" height="300px" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900"> </div>
-<p align="center">
-  <img src="https://svgtext.app/api/svg?text=Potnuru%20Mohith&fontSize=45&color=%23FF4500&animation=fire&fontFamily=Poppins&fontWeight=bold" alt="Potnuru Mohith">
-</p>
+<h2 align="center">Potnuru Mohith</h2>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=30&center=true&vCenter=true&width=550&duration=1500&pause=1000&lines=Software+Engineer;Fullstack+Developer;Machine+Learning" width="auto" height="auto"/>
 </p>
