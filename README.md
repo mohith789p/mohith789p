@@ -1,14 +1,14 @@
 <div align="center">
  <img width="450px" height="300px" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900"> </div>
-<h1 align="center" style="font-family: sans-serif; font-size: 36px; color: blue;">Potnuru Mohith</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Web+Developer;App+Developer" width="auto" height="35"/>
+  <img src="https://svgtext.app/api/svg?text=Potnuru%20Mohith&fontSize=45&color=%23FF4500&animation=fire&fontFamily=Poppins&fontWeight=bold" alt="Potnuru Mohith">
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=30&center=true&vCenter=true&width=550&duration=1500&pause=1000&lines=Software+Engineer;Fullstack+Developer;Machine+Learning" width="auto" height="auto"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am a second-year Computer Science student skilled in C, Python, and Java, with experience in basic web development and proficiency in SQL. I am passionate about engineering and technology.</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
-</p>
+
 <!-- <p align="center">Currently learning -> Machine Learning</p>
 <p align="center">Currently working on -> Private Projects</p>
 <br> -->
