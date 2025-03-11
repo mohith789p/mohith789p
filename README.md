@@ -14,7 +14,7 @@
 <table align="center">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65"/><br><b>C (Language)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/><br><b>C++ (Language)</b></td>
+<!--    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/><br><b>C++ (Language)</b></td> -->
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/><br><b>Java (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65"/><br><b>Python (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML (Markup)</b></td>
