@@ -22,6 +22,7 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/><br><b>JavaScript (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node JS (Runtime)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="65" height="65"/><br><b>Firestore (Database)</b></td>
 </tr>
 </table>
 <br>
