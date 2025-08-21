@@ -1,8 +1,8 @@
-![Profile Banner](https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai_117038-5477.jpg?w=900)
 
 # Potnuru Mohith
+<img src="https://static.vecteezy.com/system/resources/previews/066/640/473/non_2x/boy-developer-or-software-engineer-mascot-cartoon-character-template-vector.jpg" width="300" height="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=30&center=true&vCenter=true&width=550&duration=1500&pause=1000&lines=Software+Engineer;Fullstack+Developer;Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=30&width=550&duration=1500&pause=1000&lines=Software+Engineer;Fullstack+Developer;Machine+Learning)](https://git.io/typing-svg)
 
 ---
 
