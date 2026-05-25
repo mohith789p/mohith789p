@@ -195,17 +195,59 @@ https://github.com/mohith789p/Telegram-Bot
 
 ## LinkedIn Engineering Posts
 
-- Computer Vision / Edge AI  
-  https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/
+<table>
+<tr>
+<td width="50%">
 
-- Driver Drowsiness Controller  
-  https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/
+### 🧠 Computer Vision / Edge AI
 
-- Touchless Gesture System  
-  https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/
+<a href="https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/">
+  <img src="https://img.shields.io/badge/View_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- Git & GitHub Workshop  
-  https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/
+Real-time Edge AI experimentation using computer vision pipelines on NVIDIA Jetson hardware.
+
+</td>
+
+<td width="50%">
+
+### 🚗 Driver Drowsiness Controller
+
+<a href="https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/">
+  <img src="https://img.shields.io/badge/View_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+Edge AI fatigue detection system integrating ResNet-18 inference with real-time GPIO execution logic.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✋ Touchless Gesture System
+
+<a href="https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/">
+  <img src="https://img.shields.io/badge/View_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+Computer vision-based touchless interaction system designed for gesture-driven media execution.
+
+</td>
+
+<td width="50%">
+
+### 🛠 Git & GitHub Workshop
+
+<a href="https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/">
+  <img src="https://img.shields.io/badge/View_Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+Conducted technical knowledge-sharing session on Git workflows and version control fundamentals.
+
+</td>
+</tr>
+</table>
 
 ---
 
