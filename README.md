@@ -23,14 +23,14 @@ Role:
   - Fullstack Developer
   - Embedded Systems Developer
 
-Focus Areas:
+Focus:
   - Edge AI Systems
-  - Real-Time Computer Vision
+  - Computer Vision
   - Backend Architecture
   - Embedded Automation
   - AI Workflow Engineering
 
-Engineering Direction:
+Direction:
   Building AI systems that interact with
   real-world hardware under latency constraints.
 ```
@@ -39,26 +39,25 @@ Engineering Direction:
 
 # ENGINEERING DOMAINS
 
-| Domain | Focus |
+<div align="center">
+
+| Domain | Engineering Focus |
 |---|---|
 | Edge AI | Real-time inference on constrained hardware |
 | Computer Vision | Gesture tracking & drowsiness detection |
-| Backend Systems | Async pipelines & orchestration |
-| Embedded Automation | GPIO-based execution systems |
-| AI Systems | Practical deployment-oriented AI workflows |
+| Backend Systems | Async orchestration & API pipelines |
+| Embedded Automation | GPIO execution systems |
+| AI Systems | Practical deployment-focused workflows |
+
+</div>
 
 ---
 
 # FEATURED PROJECTS
 
----
-
 <div align="center">
 
-```txt
-[ SYSTEM 01 ]
-TOUCHLESS GESTURE MEDIA CONTROL
-```
+# ✋ TOUCHLESS GESTURE MEDIA CONTROL
 
 <img src="https://img.shields.io/badge/LATENCY-≤200ms-00BFFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACCURACY-90%25-success?style=for-the-badge" />
@@ -75,40 +74,49 @@ flowchart LR
     E --> F[Media Execution]
 ```
 
-### Engineering Notes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-Problem:
-  Eliminate physical interaction using real-time gesture control.
+### Problem
 
-Core Challenge:
-  Maintaining stable gesture recognition under
-  strict low-latency execution limits.
+Eliminate physical interaction through real-time gesture-driven control systems.
 
-Key Engineering Decision:
-  Implemented 3-frame temporal confirmation
-  to reduce false positives without sacrificing
-  responsiveness.
+### Core Challenge
 
-Stack:
-  - Python
-  - OpenCV
-  - MediaPipe
-  - Jetson Nano
+Maintaining gesture stability while operating within strict low-latency execution limits.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Key Engineering Decision
+
+Implemented a 3-frame temporal confirmation window to reduce false positives without sacrificing responsiveness.
+
+### Stack
+
+```txt
+Python • OpenCV • MediaPipe • Jetson Nano
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://github.com/mohith789p/touchless-media-controller">
   <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
 </a>
 
+</div>
+
 ---
 
 <div align="center">
 
-```txt
-[ SYSTEM 02 ]
-DRIVER DROWSINESS CONTROLLER
-```
+# 🚗 DRIVER DROWSINESS CONTROLLER
 
 <img src="https://img.shields.io/badge/REACTION_WINDOW-133ms-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MODEL-RESNET18-orange?style=for-the-badge" />
@@ -125,39 +133,49 @@ flowchart LR
     E --> F[Motor Shutdown]
 ```
 
-### Engineering Notes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-Problem:
-  Prevent fatigue-induced vehicular accidents.
+### Problem
 
-Core Challenge:
-  Avoiding inference lag and false shutdown triggers
-  during real-time execution.
+Prevent fatigue-induced vehicular accidents using real-time AI inference.
 
-Key Engineering Decision:
-  Engineered deterministic 2-frame persistence
-  threshold for low-latency safety response.
+### Core Challenge
 
-Stack:
-  - PyTorch
-  - CUDA
-  - OpenCV
-  - Jetson.GPIO
+Avoiding inference lag and false shutdown triggers during safety-critical execution.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Key Engineering Decision
+
+Engineered deterministic 2-frame persistence threshold for low-latency motor shutdown response.
+
+### Stack
+
+```txt
+PyTorch • CUDA • OpenCV • Jetson.GPIO
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://github.com/mohith789p/Nvidia">
   <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
 </a>
 
+</div>
+
 ---
 
 <div align="center">
 
-```txt
-[ SYSTEM 03 ]
-PICGENERATION BOT
-```
+# 🎨 PICGENERATION BOT
 
 <img src="https://img.shields.io/badge/ARCHITECTURE-ASYNC-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PLATFORM-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram" />
@@ -174,53 +192,71 @@ flowchart LR
     E --> F[Response Delivery]
 ```
 
-### Engineering Notes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-Problem:
-  Simplify access to AI image generation workflows.
+### Problem
 
-Core Challenge:
-  Handling multi-stage async failures without
-  hanging user sessions or exhausting memory.
+Simplify access to AI image generation through conversational interfaces.
 
-Key Engineering Decision:
-  Built centralized async error interception
-  with stream-based binary routing.
+### Core Challenge
 
-Stack:
-  - Node.js
-  - Axios
-  - Firebase
-  - Telegram Bot API
+Handling multi-stage async failures without hanging user sessions or exhausting memory.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Key Engineering Decision
+
+Built centralized async error interception with stream-based binary routing architecture.
+
+### Stack
+
+```txt
+Node.js • Axios • Firebase • Telegram Bot API
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://github.com/mohith789p/Telegram-Bot">
   <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
 </a>
 
----
+</div>
+
 ---
 
 # TECH STACK
 
 <div align="center">
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
 
-### Backend & Systems
+<br/>
+
+## Backend & Systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 
-### AI / CV / Embedded
+<br/>
+
+## AI / CV / Embedded
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
@@ -232,6 +268,8 @@ Stack:
 
 # SELECTED REPOSITORIES
 
+<div align="center">
+
 | Repository | Description |
 |---|---|
 | [Nvidia](https://github.com/mohith789p/Nvidia) | Jetson Nano setup & edge AI experiments |
@@ -240,11 +278,17 @@ Stack:
 | [Attend](https://github.com/mohith789p/Attend) | Attendance monitoring system |
 | [Tic-Tac-Toe-Game](https://github.com/mohith789p/Tic-Tac-Toe-Game) | CLI-based game system |
 
+</div>
+
 ---
 
 # TECHNICAL ACTIVITY
 
+<div align="center">
+
 ## LinkedIn Engineering Posts
+
+</div>
 
 <table>
 <tr>
