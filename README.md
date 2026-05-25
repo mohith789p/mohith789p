@@ -1,64 +1,263 @@
+<div align="center">
 
 # Potnuru Mohith
-<img src="https://static.vecteezy.com/system/resources/previews/066/640/473/non_2x/boy-developer-or-software-engineer-mascot-cartoon-character-template-vector.jpg" width="300" height="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00BFFF&size=30&width=550&duration=1500&pause=1000&lines=Software+Engineer;Fullstack+Developer;Machine+Learning)](https://git.io/typing-svg)
+### Fullstack & Embedded Systems Developer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Edge+AI+Systems;Computer+Vision+Pipelines;Backend+Architecture;Embedded+Automation;AI+Workflow+Engineering" />
 
-## 👨🏻‍💻 About Me
+<br/>
 
-I’m a passionate **Computer Science** student currently in my second year, focused on building robust software solutions. I enjoy problem-solving, full-stack development, and exploring new technologies.
+<img src="https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat" />
 
-- 🔭 Currently exploring **Machine Learning**
-- 🌱 Actively working on **personal & academic projects**
-- 🧠 Strong foundation in **C, Python, Java**
-- ⚡ Tech enthusiast and continuous learner
+</div>
 
 ---
 
-## 💻 My Tech Stack
+# SYSTEM PROFILE
 
-- **Languages**: C, C (Arduino), Java, Python, SQL  
-- **Web Development**: HTML, CSS, JavaScript  
-- **Frameworks**: Node.js, Express.js  
-- **Databases**: MongoDB, Firebase (Firestore)  
-- **Tools**: Git, GitHub, VS Code, Arduino IDE
+```yaml
+Name: Potnuru Mohith
 
----
+Role:
+  - Fullstack Developer
+  - Embedded Systems Developer
 
-## 📕 Featured Repositories
+Focus Areas:
+  - Edge AI Systems
+  - Real-Time Computer Vision
+  - Backend Architecture
+  - Embedded Automation
+  - AI Workflow Engineering
 
-- [📂 Data Structures](https://github.com/mohith789p/Data-Structures)
-- [📂 Java Lab Programs](https://github.com/mohith789p/Java-Lab-Programs)
-- [📂 Python Lab Programs](https://github.com/mohith789p/Python-Lab-Programs)
-- [📂 SQL](https://github.com/mohith789p/SQL)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohith789p&theme=nightowl)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohith789p&layout=compact&theme=nightowl&hide=css,jupyter%20notebook&langs_count=5)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohith789p&show_icons=true&theme=nightowl&count_private=true&hide=prs,issues&hide_title=true)
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohith789p&theme=nightowl&utcOffset=5.30)
+Engineering Direction:
+  Building AI systems that interact with
+  real-world hardware under latency constraints.
+```
 
 ---
 
-## 📜 Quote of the Day
+# ENGINEERING DOMAINS
 
-![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
+| Domain | Focus |
+|---|---|
+| Edge AI | Real-time inference on constrained hardware |
+| Computer Vision | Gesture tracking & drowsiness detection |
+| Backend Systems | Async pipelines & orchestration |
+| Embedded Automation | GPIO-based execution systems |
+| AI Systems | Practical deployment-oriented AI workflows |
 
 ---
 
-## 🔗 Connect with Me
+# FEATURED PROJECTS
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohith321p@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/potnuru-mohith?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Touchless Gesture-Based Media Control System
+
+Real-time computer vision interface eliminating physical interaction through gesture-driven media control.
+
+### Highlights
+
+- Built end-to-end gesture recognition pipeline on NVIDIA Jetson Nano
+- Integrated MediaPipe hand tracking with execution-layer automation
+- Designed lightweight spatial heuristic filtering pipeline
+- Achieved ≥90% gesture recognition accuracy
+- Maintained ≤200ms end-to-end latency budget
+
+### Critical Constraint
+
+```txt
+3-frame temporal confirmation window:
+
+3 × 66.7ms = ~200ms interaction budget
+
+Any computational overhead immediately
+breaks real-time responsiveness.
+```
+
+### Stack
+
+```txt
+Python • OpenCV • MediaPipe • Jetson Nano • pynput
+```
+
+🔗 Repository  
+https://github.com/mohith789p/touchless-media-controller
 
 ---
 
-[🔝 Back to Top](#potnuru-mohith)
+## Driver Drowsiness Controller
+
+Edge AI safety system designed to detect driver fatigue and trigger real-time motor shutdown logic.
+
+### Highlights
+
+- Designed complete inference-to-actuation pipeline
+- Implemented event-driven JetCam processing architecture
+- Integrated ResNet-18 inference with GPIO motor control
+- Engineered deterministic 2-frame persistence threshold
+- Built for strict low-latency safety execution
+
+### Critical Constraint
+
+```txt
+15 FPS baseline:
+
+2 × 66.7ms = ~133ms reaction window
+
+Single delayed frame risks unsafe stopping distance.
+```
+
+### Stack
+
+```txt
+PyTorch • CUDA • OpenCV • Jetson.GPIO • JetCam
+```
+
+🔗 NVIDIA / Edge AI Experiments  
+https://github.com/mohith789p/Nvidia
+
+---
+
+## PicGeneration Bot
+
+AI image generation pipeline exposed through a Telegram-native conversational interface.
+
+### Highlights
+
+- Built resilient async backend orchestration layer
+- Managed multi-stage API failure handling
+- Implemented stream-based binary transfer architecture
+- Reduced memory overhead via unbuffered response piping
+- Engineered deployment-compatible polling + HTTP runtime model
+
+### System Design Focus
+
+```txt
+Preventing:
+- unhandled promise rejections
+- stalled user sessions
+- memory saturation
+- free-tier deployment instability
+```
+
+### Stack
+
+```txt
+Node.js • Axios • Firebase • Telegram Bot API • Firestore
+```
+
+🔗 Repository  
+https://github.com/mohith789p/Telegram-Bot
+
+---
+
+# TECH STACK
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+
+### Backend & Systems
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+
+### AI / CV / Embedded
+
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-111111?style=for-the-badge&logo=nvidia)
+
+</div>
+
+---
+
+# SELECTED REPOSITORIES
+
+| Repository | Description |
+|---|---|
+| [Nvidia](https://github.com/mohith789p/Nvidia) | Jetson Nano setup & edge AI experiments |
+| [Telegram-Bot](https://github.com/mohith789p/Telegram-Bot) | AI-powered Telegram bot collection |
+| [touchless-media-controller](https://github.com/mohith789p/touchless-media-controller) | Real-time gesture-controlled media system |
+| [Attend](https://github.com/mohith789p/Attend) | Attendance monitoring system |
+| [Tic-Tac-Toe-Game](https://github.com/mohith789p/Tic-Tac-Toe-Game) | CLI-based game system |
+
+---
+
+# TECHNICAL ACTIVITY
+
+## LinkedIn Engineering Posts
+
+- Computer Vision / Edge AI  
+  https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/
+
+- Driver Drowsiness Controller  
+  https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/
+
+- Touchless Gesture System  
+  https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/
+
+- Git & GitHub Workshop  
+  https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/
+
+---
+
+# GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohith789p&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith789p&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=mohith789p&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohith789p/mohith789p/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="mailto:mohith321p@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/potnuru-mohith">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/mohith789p/">
+  <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+Designing systems where AI doesn't just predict —
+it interacts, responds, and executes in real time.
+```
+
+</div>
