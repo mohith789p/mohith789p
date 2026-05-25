@@ -51,104 +51,155 @@ Engineering Direction:
 
 # FEATURED PROJECTS
 
-## Touchless Gesture-Based Media Control System
+---
 
-Real-time computer vision interface eliminating physical interaction through gesture-driven media control.
-
-### Highlights
-
-- Built end-to-end gesture recognition pipeline on NVIDIA Jetson Nano
-- Integrated MediaPipe hand tracking with execution-layer automation
-- Designed lightweight spatial heuristic filtering pipeline
-- Achieved ≥90% gesture recognition accuracy
-- Maintained ≤200ms end-to-end latency budget
-
-### Critical Constraint
+<div align="center">
 
 ```txt
-3-frame temporal confirmation window:
-
-3 × 66.7ms = ~200ms interaction budget
-
-Any computational overhead immediately
-breaks real-time responsiveness.
+[ SYSTEM 01 ]
+TOUCHLESS GESTURE MEDIA CONTROL
 ```
 
-### Stack
+<img src="https://img.shields.io/badge/LATENCY-≤200ms-00BFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACCURACY-90%25-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDGE_AI-JETSON_NANO-76B900?style=for-the-badge&logo=nvidia" />
 
-```txt
-Python • OpenCV • MediaPipe • Jetson Nano • pynput
+</div>
+
+```mermaid
+flowchart LR
+    A[Webcam Input] --> B[MediaPipe Tracking]
+    B --> C[Spatial Heuristics]
+    C --> D[Temporal Validation]
+    D --> E[Keyboard Automation]
+    E --> F[Media Execution]
 ```
 
-🔗 Repository  
-https://github.com/mohith789p/touchless-media-controller
+### Engineering Notes
+
+```yaml
+Problem:
+  Eliminate physical interaction using real-time gesture control.
+
+Core Challenge:
+  Maintaining stable gesture recognition under
+  strict low-latency execution limits.
+
+Key Engineering Decision:
+  Implemented 3-frame temporal confirmation
+  to reduce false positives without sacrificing
+  responsiveness.
+
+Stack:
+  - Python
+  - OpenCV
+  - MediaPipe
+  - Jetson Nano
+```
+
+<a href="https://github.com/mohith789p/touchless-media-controller">
+  <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-## Driver Drowsiness Controller
-
-Edge AI safety system designed to detect driver fatigue and trigger real-time motor shutdown logic.
-
-### Highlights
-
-- Designed complete inference-to-actuation pipeline
-- Implemented event-driven JetCam processing architecture
-- Integrated ResNet-18 inference with GPIO motor control
-- Engineered deterministic 2-frame persistence threshold
-- Built for strict low-latency safety execution
-
-### Critical Constraint
+<div align="center">
 
 ```txt
-15 FPS baseline:
-
-2 × 66.7ms = ~133ms reaction window
-
-Single delayed frame risks unsafe stopping distance.
+[ SYSTEM 02 ]
+DRIVER DROWSINESS CONTROLLER
 ```
 
-### Stack
+<img src="https://img.shields.io/badge/REACTION_WINDOW-133ms-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODEL-RESNET18-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REALTIME_GPIO-CONTROL-black?style=for-the-badge" />
 
-```txt
-PyTorch • CUDA • OpenCV • Jetson.GPIO • JetCam
+</div>
+
+```mermaid
+flowchart LR
+    A[Camera Feed] --> B[ResNet18 Inference]
+    B --> C[Drowsiness Detection]
+    C --> D[Persistence Threshold]
+    D --> E[GPIO Trigger]
+    E --> F[Motor Shutdown]
 ```
 
-🔗 NVIDIA / Edge AI Experiments  
-https://github.com/mohith789p/Nvidia
+### Engineering Notes
+
+```yaml
+Problem:
+  Prevent fatigue-induced vehicular accidents.
+
+Core Challenge:
+  Avoiding inference lag and false shutdown triggers
+  during real-time execution.
+
+Key Engineering Decision:
+  Engineered deterministic 2-frame persistence
+  threshold for low-latency safety response.
+
+Stack:
+  - PyTorch
+  - CUDA
+  - OpenCV
+  - Jetson.GPIO
+```
+
+<a href="https://github.com/mohith789p/Nvidia">
+  <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
-## PicGeneration Bot
-
-AI image generation pipeline exposed through a Telegram-native conversational interface.
-
-### Highlights
-
-- Built resilient async backend orchestration layer
-- Managed multi-stage API failure handling
-- Implemented stream-based binary transfer architecture
-- Reduced memory overhead via unbuffered response piping
-- Engineered deployment-compatible polling + HTTP runtime model
-
-### System Design Focus
+<div align="center">
 
 ```txt
-Preventing:
-- unhandled promise rejections
-- stalled user sessions
-- memory saturation
-- free-tier deployment instability
+[ SYSTEM 03 ]
+PICGENERATION BOT
 ```
 
-### Stack
+<img src="https://img.shields.io/badge/ARCHITECTURE-ASYNC-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLATFORM-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram" />
+<img src="https://img.shields.io/badge/PIPELINE-STREAM_BASED-0A0A0A?style=for-the-badge" />
 
-```txt
-Node.js • Axios • Firebase • Telegram Bot API • Firestore
+</div>
+
+```mermaid
+flowchart LR
+    A[User Prompt] --> B[Telegram Bot]
+    B --> C[Pollinations API]
+    C --> D[Image Stream]
+    D --> E[Firestore Logging]
+    E --> F[Response Delivery]
 ```
 
-🔗 Repository  
-https://github.com/mohith789p/Telegram-Bot
+### Engineering Notes
 
+```yaml
+Problem:
+  Simplify access to AI image generation workflows.
+
+Core Challenge:
+  Handling multi-stage async failures without
+  hanging user sessions or exhausting memory.
+
+Key Engineering Decision:
+  Built centralized async error interception
+  with stream-based binary routing.
+
+Stack:
+  - Node.js
+  - Axios
+  - Firebase
+  - Telegram Bot API
+```
+
+<a href="https://github.com/mohith789p/Telegram-Bot">
+  <img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github"/>
+</a>
+
+---
 ---
 
 # TECH STACK
