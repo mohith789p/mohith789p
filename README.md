@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='100%25' fill='%23007acc'/%3E%3C/svg%3E" alt="blue line" width="100%">
-
 <img src="https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
