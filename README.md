@@ -1,191 +1,98 @@
 <div align="center">
 
-# Potnuru Mohith
+# Hi, I'm Potnuru Mohith 👋
 
-### Fullstack Developer | Software Engineer
+### AI-Focused Fullstack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Fullstack+Web+Development;Backend+%26+API+Architecture;AI-Integrated+Applications;Scalable+System+Design;Edge+AI+%26+Embedded+Systems" />
+I build fullstack products and weave AI/LLM capabilities — RAG, prompt engineering, and function calling — directly into them.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
-# SYSTEM PROFILE
-
-```yaml
-Name: Potnuru Mohith
-
-Role:
-  - Fullstack Developer
-  - Software Engineer
-
-Focus:
-  - Web & Backend Development
-  - API & System Architecture
-  - AI-Integrated Applications
-  - Cloud & Database Systems
-
-Side Interests:
-  - Edge AI & Computer Vision
-  - Embedded Automation
-
-Direction:
-  Building scalable software products and
-  practical AI-powered applications end-to-end.
-```
-
----
-
-# CORE COMPETENCIES
-
-<div align="center">
-
-| Domain | Focus |
-|---|---|
-| Fullstack Development | Next.js frontends, Node.js & Express backends |
-| API & Backend Systems | Async orchestration, REST APIs, LLM/service integration |
-| Databases & Cloud | MongoDB, Firebase, Docker-based deployment |
-| AI Integration | Applying AI/ML models and APIs inside real products |
-| DSA & Problem Solving | Java — active competitive & interview practice |
+![Profile Views](https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-# FEATURED PROJECTS
+### 🧭 About Me
 
-<a href="https://github.com/mohith789p/Code-Assistant/tree/main/code-review"><img align="right" src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github" /></a>
-
-### 🧠 AI Code Review Assistant
-
-`Next.js` `Node.js` `Express` `Hugging Face API` `Mistral-7B`
-
-> **The Objective:** Give developers instant, structured code feedback without waiting on a human reviewer.
->
-> **The Bottleneck:** LLM output is unstructured prose, making it unreliable to parse into consistent, UI-ready review fields.
->
-> **The Architecture:** Constrained prompt design paired with regex-based section extraction (rating, correctness, efficiency, readability, suggestions), served through an Express API and rendered on a Next.js frontend.
-
-
+- 🎓 Final-year B.Tech CS student
+- 🛠️ Fullstack developer — Next.js / Node.js / Express, MongoDB, Firebase, Docker
+- 🤖 Actively integrating AI into real products: Gemini, Mistral, Hugging Face Transformers, RAG pipelines
+- 🧩 Also explore Edge AI & Computer Vision in my free time
+- 🧠 Practicing DSA in Java for interviews
 
 ---
 
-<a href="https://github.com/mohith789p/Telegram-Bot"><img align="right" src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github" /></a>
-
-### 🎨 PicGeneration Bot
-
-`Node.js` `Firebase` `Telegram Bot API` `Async Architecture`
-
-> **The Objective:** Simplify AI image generation via a conversational interface.
->
-> **The Bottleneck:** Multi-stage async operations risked hanging user sessions and causing memory leaks during failures.
->
-> **The Architecture:** Implemented a stream-based response pipeline with centralized async error interception, routing telemetry directly to Firestore.
-
----
-
-# SIDE PROJECTS — EDGE AI & COMPUTER VISION
-
-*Free-time builds showcasing applied AI and hardware-integration skill alongside core development work.*
-
-<a href="https://github.com/mohith789p/touchless-media-controller"><img align="right" src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github" /></a>
-
-### ✋ Touchless Gesture Media Control
-
-`Python` `OpenCV` `MediaPipe` `Jetson Nano` · ≤200ms latency · 90% accuracy
-
-> **The Objective:** Eliminate physical interaction through real-time, gesture-driven media control.
->
-> **The Bottleneck:** Gesture recognition needed to stay stable and accurate under strict low-latency constraints.
->
-> **The Architecture:** Built a 3-frame temporal confirmation window that filters out false positives without compromising responsiveness.
-
----
-
-<a href="https://github.com/mohith789p/Nvidia"><img align="right" src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=for-the-badge&logo=github" /></a>
-### 🚗 Driver Drowsiness Controller
-
-`PyTorch` `CUDA` `OpenCV` `Jetson.GPIO` `ResNet-18` · 133ms reaction window
-
-> **The Objective:** Prevent fatigue-induced accidents through real-time AI inference.
->
-> **The Bottleneck:** Inference lag and false shutdown triggers posed serious risks in a safety-critical control loop.
->
-> **The Architecture:** Deployed a deterministic 2-frame persistence threshold that confirms drowsiness before triggering a GPIO motor shutdown.
-
----
-
-# TECH STACK
+### 🛠️ Tech Stack
 
 **Languages**
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c)
-
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **Fullstack & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<div align="center">
+**AI / LLM Integration**
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
-
-</div>
-
-**AI / CV / Embedded (R&D)**
-
-<div align="center">
-
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-111111?style=flat-square&logo=nvidia)
-
-</div>
+**AI / CV / Embedded (side projects)**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ---
 
-# TECHNICAL ACTIVITY
+### 🚀 Featured Projects
 
-<div align="center">
+#### 🧠 [AI Code Review Assistant](https://github.com/mohith789p/Code-Assistant/tree/main/code-review)
+`Next.js` `Node.js` `Express` `Hugging Face API` `Mistral-7B`
+
+Gives developers instant, structured code feedback without waiting on a human reviewer. The hard part was turning unstructured LLM prose into consistent, UI-ready fields — solved with constrained prompt design plus regex-based extraction (rating, correctness, efficiency, readability, suggestions), served via an Express API and rendered on a Next.js frontend.
+
+#### 🎨 [PicGeneration Bot](https://github.com/mohith789p/Telegram-Bot)
+`Node.js` `Firebase` `Telegram Bot API` `Async Architecture`
+
+A conversational interface for AI image generation. Multi-stage async operations risked hanging sessions and memory leaks on failure, so I built a stream-based response pipeline with centralized async error interception, routing telemetry straight to Firestore.
+
+---
+
+### 🧪 Side Projects — Edge AI & Computer Vision
+
+#### ✋ [Touchless Gesture Media Control](https://github.com/mohith789p/touchless-media-controller)
+`Python` `OpenCV` `MediaPipe` `Jetson Nano` · ≤200ms latency · 90% accuracy
+
+Real-time, gesture-driven media control with no physical contact. A 3-frame temporal confirmation window filters out false positives without hurting responsiveness.
+
+#### 🚗 [Driver Drowsiness Controller](https://github.com/mohith789p/Nvidia)
+`PyTorch` `CUDA` `OpenCV` `Jetson.GPIO` `ResNet-18` · 133ms reaction window
+
+Real-time fatigue detection to help prevent accidents. A deterministic 2-frame persistence threshold confirms drowsiness before triggering a GPIO motor shutdown, avoiding false shutdowns in a safety-critical loop.
+
+---
+
+### 📝 Technical Activity
 
 | Post | Topic |
 |---|---|
-| [Computer Vision / Edge AI](https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/) | Experimented with real-time computer vision inference pipelines running directly on NVIDIA Jetson edge hardware. |
-| [Driver Drowsiness Controller](https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/) | Built a fatigue detection system combining ResNet-18 inference with real-time GPIO-triggered hardware shutdown logic. |
-| [Touchless Gesture System](https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/) | Designed a computer-vision-based touchless interaction system for gesture-driven control of media playback. |
-| [Git & GitHub Workshop](https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/) | Led a hands-on session teaching Git workflows, branching strategy, and version control fundamentals to peers. |
-
-</div>
+| [Computer Vision / Edge AI](https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/) | Real-time CV inference pipelines on NVIDIA Jetson edge hardware |
+| [Driver Drowsiness Controller](https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/) | ResNet-18 fatigue detection with GPIO-triggered hardware shutdown |
+| [Touchless Gesture System](https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/) | CV-based touchless interaction for gesture-driven media control |
+| [Git & GitHub Workshop](https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/) | Led a peer session on Git workflows, branching, and version control |
 
 ---
 
-# CONNECT
+### 📫 Connect With Me
 
-<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohith321p@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/potnuru-mohith)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohith789p/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:mohith321p@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/potnuru-mohith)
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/mohith789p/)
-
-</div>
-
----
-
-<div align="center">
-
-## 👋 Thanks for stopping by
-
-**Always open to connect, collaborate, or talk shop over a good problem.**
-
-</div>
+Always open to connect, collaborate, or talk shop over a good problem 🚀
