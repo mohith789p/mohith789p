@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Potnuru Mohith 👋
-
-### AI-Focused Fullstack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A0A23&height=200&section=header&text=Potnuru%20Mohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Focused%20Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 I build fullstack products and weave AI/LLM capabilities — RAG, prompt engineering, and function calling — directly into them.
 
@@ -64,7 +62,7 @@ A conversational interface for AI image generation. Multi-stage async operations
 
 ---
 
-### 🧪 Side Projects — Edge AI & Computer Vision
+### 🧪 Projects — Edge AI & Computer Vision
 
 #### ✋ [Touchless Gesture Media Control](https://github.com/mohith789p/touchless-media-controller)
 `Python` `OpenCV` `MediaPipe` `Jetson Nano` · ≤200ms latency · 90% accuracy
@@ -78,21 +76,13 @@ Real-time fatigue detection to help prevent accidents. A deterministic 2-frame p
 
 ---
 
-### 📝 Technical Activity
-
-| Post | Topic |
-|---|---|
-| [Computer Vision / Edge AI](https://www.linkedin.com/posts/potnuru-mohith_computervision-machinelearning-edgeai-ugcPost-7409606305285603328-C53N/) | Real-time CV inference pipelines on NVIDIA Jetson edge hardware |
-| [Driver Drowsiness Controller](https://www.linkedin.com/posts/lakshmi-sai-ram-rathipalli-172109353_theengineersmindset-theengineersmindset-studentinnovator-ugcPost-7438908753846120448-d1jX/) | ResNet-18 fatigue detection with GPIO-triggered hardware shutdown |
-| [Touchless Gesture System](https://www.linkedin.com/posts/potnuru-mohith_git-github-workshop-activity-7374072308979793920-12Nc/) | CV-based touchless interaction for gesture-driven media control |
-| [Git & GitHub Workshop](https://www.linkedin.com/posts/potnuru-mohith_softwareengineering-java-objectorienteddesign-activity-7420111541670182913-xpp4/) | Led a peer session on Git workflows, branching, and version control |
-
----
-
 ### 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohith321p@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/potnuru-mohith)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohith789p/)
 
-Always open to connect, collaborate, or talk shop over a good problem 🚀
+<div align="center">
+  Always open to connect, collaborate, or talk shop over a good problem 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A23,100:0E75B6&height=100&section=footer" width="100%"/>
+</div>
