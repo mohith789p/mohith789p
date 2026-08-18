@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A0A23&height=200&section=header&text=Potnuru%20Mohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Focused%20Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-I build fullstack products and weave AI/LLM capabilities — RAG, prompt engineering, and function calling — directly into them.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=I+build+full-stack+products+with+AI+at+the+core;Integrating+RAG+prompt+engineering+%26+function+calling;I+turn+LLMs+into+real+product+features" alt="Typing SVG" />
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat)
 
