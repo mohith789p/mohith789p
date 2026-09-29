@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A0A23&height=200&section=header&text=Potnuru%20Mohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%26%20Fullstack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A0A23&height=200&section=header&text=Potnuru%20Mohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20and%20Fullstack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+production+systems+grounded+in+LLM+architectures;Specializing+in+semantic+retrieval%2C+indexing+%26+tool+calling;Bridging+foundational+models+with+scalable+fullstack+infra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Building+production+systems+grounded+in+LLM+architectures;Specializing+in+semantic+retrieval%2C+indexing+and+tool+calling;Bridging+foundational+models+with+scalable+fullstack+infra" alt="Typing SVG" />
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohith789p&label=Profile+Views&color=0e75b6&style=flat)
@@ -32,7 +32,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **Applied AI & Retrieval Infrastructure**
-![Embeddings](https://img.shields.io/badge/Embeddings%20%26%20Retrieval-0E75B6?style=flat-square&logo=target&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings_and_Retrieval-0E75B6?style=flat-square&logo=target&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/Vector_Databases-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
