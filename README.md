@@ -10,7 +10,7 @@
 <h3 align="center">🧑‍💻 Whoami</h3>
 
 <p align="center">
-  I'm a Generative AI Developer interested in building intelligent applications using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG). I work with Python, LangChain, FastAPI, and vector databases to develop practical AI solutions. I'm particularly interested in hybrid search, reranking, and agentic AI systems. I enjoy exploring new technologies and turning ideas into reliable, end-to-end applications.
+  I'm a software developer specializing in Generative AI and backend engineering. I enjoy building practical applications using LLMs, exploring modern AI technologies, and designing efficient backend systems. With a strong foundation in computer science, I focus on writing clean code, solving problems, and turning ideas into reliable software.
 </p>
 
 <p align="center">
